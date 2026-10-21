@@ -1,0 +1,17 @@
+{
+  "version": "0.4.0",
+  "archiveBytes": 31458498,
+  "archiveSha256": "1b55f87a6f89cc6b1b96899b66c59ff4877973ee41b93d28a23d29c8c51a01d3",
+  "parts": [
+    {
+      "file": "web-release.zip.part-01",
+      "bytes": 20000000,
+      "sha256": "249859619440fec45b2381fdc7ad45992587aebafbb5372072fd88bbd00694e9"
+    },
+    {
+      "file": "web-release.zip.part-02",
+      "bytes": 11458498,
+      "sha256": "9f142efbf91f6cb1d2b504bcfa1153af281cb45645e4e9cd171343a093531a6c"
+    }
+  ]
+}
